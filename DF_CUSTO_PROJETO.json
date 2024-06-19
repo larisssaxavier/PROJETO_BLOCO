@@ -1,0 +1,14 @@
+[
+    {
+        "NomeDepartamento": "RH",
+        "CustoProjeto": 60000
+    },
+    {
+        "NomeDepartamento": "TI",
+        "CustoProjeto": 150000
+    },
+    {
+        "NomeDepartamento": "Vendas",
+        "CustoProjeto": 20000
+    }
+]

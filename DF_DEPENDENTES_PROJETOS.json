@@ -1,0 +1,42 @@
+[
+    {
+        "NomeProjeto": "Aplicativo Mobile",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Automa\u00e7\u00e3o de RH",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Migra\u00e7\u00e3o de Dados",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Sistema ERP",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Treinamento de TI",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Website Corporativo",
+        "QuantidadeDependentes": 2
+    },
+    {
+        "NomeProjeto": "Atualiza\u00e7\u00e3o de ERP",
+        "QuantidadeDependentes": 1
+    },
+    {
+        "NomeProjeto": "Integra\u00e7\u00e3o de API",
+        "QuantidadeDependentes": 1
+    },
+    {
+        "NomeProjeto": "Plataforma E-commerce",
+        "QuantidadeDependentes": 1
+    },
+    {
+        "NomeProjeto": "Sistema de CRM",
+        "QuantidadeDependentes": 1
+    }
+]
